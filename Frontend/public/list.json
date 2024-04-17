@@ -1,0 +1,34 @@
+[
+    {   "id": 1,
+        "name":"Eloquent JavaScript, Third Edition",
+        "title":"A Modern Introduction to Programming"
+    },
+    {   "id": 2,
+        "name":"Practical Modern JavaScript",
+        "title":"Dive into ES6 and the Future of JavaScript"
+    
+    },
+    {   "id": 3,
+        "name":"Understanding ECMAScript 6",
+        "title":"The Definitive Guide for JavaScript Developers"
+    
+    },
+    {   "id": 4,
+        "name":"Speaking JavaScript",
+        "title":"An In-Depth Guide for Programmers"
+    
+    },
+    {   "id": 5,
+        "name":"Learning JavaScript Design Patterns",
+        "title":"A JavaScript and jQuery Developer's Guide"
+    
+    },
+    {   "id": 6,
+        "name":"You Don't Know JS Yet",
+        "title":"Get Started"
+    },
+    {   "id": 7,
+        "name":"Pro Git",
+        "title":"Everything you nd to know about Git"
+    }
+]
